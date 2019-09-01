@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ccnywics/static/css/main.dc9454e6.chunk.css",
+    "main.js": "/ccnywics/static/js/main.543cdf61.chunk.js",
+    "main.js.map": "/ccnywics/static/js/main.543cdf61.chunk.js.map",
+    "runtime~main.js": "/ccnywics/static/js/runtime~main.870a1ecf.js",
+    "runtime~main.js.map": "/ccnywics/static/js/runtime~main.870a1ecf.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ccnywics/static/css/2.266e55a5.chunk.css",
+    "static/js/2.562d5930.chunk.js": "/ccnywics/static/js/2.562d5930.chunk.js",
+    "static/js/2.562d5930.chunk.js.map": "/ccnywics/static/js/2.562d5930.chunk.js.map",
+    "index.html": "/ccnywics/index.html",
+    "precache-manifest.3b02c38f0468725f7dcde8d5c0a40c99.js": "/ccnywics/precache-manifest.3b02c38f0468725f7dcde8d5c0a40c99.js",
+    "service-worker.js": "/ccnywics/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ccnywics/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.dc9454e6.chunk.css.map": "/ccnywics/static/css/main.dc9454e6.chunk.css.map",
+    "static/media/wicsLogoDark.png": "/ccnywics/static/media/wicsLogoDark.1467ea6b.png",
+    "static/media/wicsLogoLight.png": "/ccnywics/static/media/wicsLogoLight.8ac5b4ad.png"
+  }
+}
